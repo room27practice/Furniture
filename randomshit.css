@@ -1,0 +1,276 @@
+#savage
+{
+background-color: #2b3c5a;
+	margin-top: 800px;
+	height: 1000px;
+}
+#hamster
+{
+	margin-left: 200px;
+	margin-top: 43px;
+}
+#emiregay
+{
+	margin-left: 200px;
+	margin-top: 43px;
+	
+}
+#white-body
+{
+	padding-top: 20px;
+	padding-right: 20px;
+	padding-bottom: 20px;
+	padding-left:40px;
+	
+}
+#razdelq2
+{
+	margin-top:43px;
+}
+#adres
+{
+   
+	margin-top: 1000px;
+	padding-top: 100px;
+}
+#day-light-
+{
+	padding-right: -254px;
+}
+#orange-body
+{
+    padding-top: 40px;
+	padding-right: 40px;
+	padding-bottom: 40px;
+	padding-left:40px;
+	
+}
+#orange-body-left
+{
+     margin-left:100px;
+	 margin-top:43px;
+	 margin-bottom:40px;
+}
+#img1
+{
+    border-radius: 5px;
+	border-left: 5px;
+	margin-left: 100px;
+	
+}
+#kratki-saveti
+{
+   margin-top: 40px;
+   margin-left: 200px;
+   padding-bottom: 50px;
+   margin-right: 20px;
+   padding-left:20px;
+   padding-top:20px;
+   
+}
+#blue-body
+{
+	padding-top: 10px;
+	padding-right: 40px;
+	padding-bottom: 10px;
+	padding-left:40px;
+	height:20px;
+}
+#border-color
+{
+	border-color:black;
+	margin-top:100px;
+	margin-right:220px;
+	padding-bottom:45px;
+}
+
+#orange-box
+{
+	
+}
+#font
+{
+   text-align:justify;
+  
+}
+#button5
+{
+	color:black;
+	 border-radius: 30px;
+	 border-color: black;
+}
+button5:hover {color:#000000;}
+#button10
+{
+	color:white;
+	border-radius:30px;
+	border-color:white;
+}
+#local-light
+{
+	margin-top:43px;
+	border-radius:5px;
+}
+#gray-title
+{
+	margin-top:40px;
+	border-radius:58px;
+}
+#list-title
+{
+	padding-left:55px;
+	
+	
+}
+#prefeks
+{
+	
+	margin-top: 1000px;
+	padding-top: 100px;
+	
+}
+#ulica
+{
+	margin-right:1380px;
+	float:right;
+	margin-top: ;
+	padding-top: ;
+	color:#185c9c;
+	font-family:tahoma;
+	font-style:italic;
+}
+#gps
+{
+
+	width:15px;
+	height:18px;
+}
+#phone-call
+{
+	
+	width:15px;
+	height:18px;
+}
+#telefon
+{
+	margin-top:-23px;
+	margin-left:20px;
+	float:left;
+	margin-top: ;
+	color:orange;
+	font-family:tahoma;
+	font-style:italic;
+	
+}
+#na-adres
+{
+   margin-left:200px;
+}
+#e-mail
+{
+	margin-top:-3px;
+	margin-left:-130px;
+	float:left;
+	margin-top: ;
+	color:#185c9c;
+	font-family:tahoma;
+	font-style:italic;
+}
+#lettter10
+{
+	margin-top:5px;
+	width:15px;
+	height:18px;
+    float:left;
+	margin-left:-155px;
+}
+.social
+{
+     margin-top:100px; 
+     background-color:#185c9c;
+	 border-radius: 30px;
+	 border-color: black;
+     margin-right:1200px;
+     width:150px;
+     height:150px;
+	 
+}
+.social2
+{
+      width:40px;
+	height:40px;
+	margin-top:30px;
+	margin-left:15px;
+	margin-right:200px;
+	float:left;
+}
+#facebook1
+{
+	margin-right:00px;
+}
+#facebook2
+{
+	margin-right:00px;
+}
+#facebook3
+{
+	margin-right:00px;
+}
+#facebook
+{
+	margin-right:00px;
+}
+#forma
+{
+     float:right;
+	 margin-top:-95px;
+	 margin-right:900px;
+}
+#form-control
+{
+	margin-top:-80px;
+	width:320px;
+	margin-left:270px;
+}
+#form-control2
+{
+	margin-left:666px;
+	width:400px;
+	margin-top:-96px;
+	
+}
+
+#form-floating
+{
+	margin-bottom:100px;
+	margin-left:430px;
+	height:150px;
+	width:800px;
+	
+	
+}
+#button20
+{
+  margin-left:430px;
+  margin-top:-70px;
+  margin-bottom:150px;
+}
+#line5
+{
+	margin-top:30px;
+	margin: 150px;
+    padding-top:150px;	
+}
+#shadow5
+{
+	box-shadow: 0px 1px 10px black;
+	
+	margin:0px;
+}
+#copyright
+{
+   margin-left:700px;
+   margin-bottom:50px;  
+   margin-top:60px;
+   width:1000px;
+}
